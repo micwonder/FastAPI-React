@@ -205,7 +205,6 @@ const Machine = () => {
   //   ],
   //   [getCommonEditTextFieldProps],
   // );
-
   return (
     <>
       <MaterialReactTable
